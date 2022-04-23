@@ -1,0 +1,11 @@
+{
+  "git.ignoreLimitWarning": true,
+  "json.schemaDownload.enable": false,
+  "dataworkspace.excludedProjects": [
+    "Migrations/CommanderAPI/CommanderAPI.sqlproj"
+  ]
+}
+
+  
+
+
